@@ -1,0 +1,13 @@
+*.md
+!SETUP.md
+
+.venv/
+data/
+data-steven/
+data-chela/
+data-gea/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+certs/
+tools/

@@ -1,0 +1,15 @@
+# Paket proyek (PyTorch dipasang terpisah oleh setup_env, karena butuh versi CUDA)
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+tqdm
+jupyter
+ipykernel
+kagglehub
+
+# Opsional (tahap tambahan: crop tangan dan demo webcam). Aktifkan jika diperlukan.
+opencv-python
+mediapipe
+
